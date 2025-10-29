@@ -16,7 +16,7 @@ PasteFlow comes packed with functionality to enhance your coding and sharing wor
 * **Customization:** Full Dark Mode support, configurable editor settings (line numbers, word wrap, tab size), and data management (Export/Import) available in the **Settings** panel.
 * **FlowBot AI Assistant:** An integrated chatbot (`components/ChatbotButton.jsx`) provides instant help on PasteFlow features and popular programming languages.
 * **Seamless Navigation:** Use the in-app history navigation (back/forward buttons) for smooth browsing between pages.
-* **Data Persistence:** User data, pastes, and preferences are saved locally using `localStorage`.
+
 
 ## 🛠️ Tech Stack
 
